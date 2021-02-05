@@ -1,0 +1,5 @@
+entity\Customer.class
+dbFacade\CustomerFacade.class
+rest\CustomerResource.class
+entity\EntityTested.class
+rest\ApplicationConfig.class
